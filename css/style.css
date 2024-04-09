@@ -1,0 +1,55 @@
+.logo {
+  text-align: center;
+}
+
+.img-logo {
+  width: auto;
+  height: 20rem;
+}
+
+.titulo {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  text-align: center;
+  color: #bb5397;
+  letter-spacing: 10px;
+  font-weight: 100;
+}
+
+.subtitulo {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  color: #bb5397;
+  letter-spacing: 10px;
+}
+
+.text {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  color: #3b63a6;
+}
+
+.hotel-1 {
+  width: auto;
+  height: 14rem;
+  float: right;
+  margin: 0px 0px 2px 10px;
+}
+
+.hotel-2 {
+  width: auto;
+  height: 14rem;
+  float: left;
+  margin: 0px 10px 2px 0px;
+}
+
+.hotel-3 {
+  width: auto;
+  height: 14rem;
+  float: right;
+  margin: 0px 0px 2px 10px;
+}
+
+.img-footer {
+  width: 100%;
+}
